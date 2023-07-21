@@ -1,6 +1,6 @@
-### WGCNA is an unsupervised method to cluster genes based on their expression profile. 
+### Weighted Gene Co-expression Network Analysis (WGCNA) is an unsupervised method to cluster genes based on their expression profile. 
 
-### WGCNA cluster genes that are functionally associated 
+### WGCNA cluster genes that are functionally associated in same pathway or regulatory mechanism, part of the same complex or influence each other or may be influenced by the same underlying mechanism.
 
 ### Identified modules can be used for several downstrem analysis. For example
 
